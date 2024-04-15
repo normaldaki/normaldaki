@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Всем привет 👋
+### Я Тимур Исмагилов, и это мой профиль на гите с крутыми проектами на Python (WEB DEVELOPMENT)
+### Куплю карту сбер (за много)
 <!--
 **normaldaki/normaldaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
